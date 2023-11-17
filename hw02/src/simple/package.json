@@ -1,0 +1,14 @@
+{
+  "name": "d37fa7a93054ad9f",
+  "main": "d37fa7a93054ad9f@23.js",
+  "version": "23.0.0",
+  "homepage": "https://observablehq.com/d/d37fa7a93054ad9f",
+  "author": {
+    "name": "熊起司's Workspace",
+    "url": "https://observablehq.com/@xiong-qi-si-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
